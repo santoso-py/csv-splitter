@@ -14,8 +14,7 @@
 ---
 
 ## **📸 Screenshot**  
-*<img width="812" alt="image" src="https://github.com/user-attachments/assets/85031897-17f8-4947-a20b-653fb7e77ebf" />
-*  
+*<img width="812" alt="image" src="https://github.com/user-attachments/assets/85031897-17f8-4947-a20b-653fb7e77ebf" /> 
 
 ---
 
@@ -32,3 +31,7 @@
 ```bash
 git clone https://github.com/santoso-py/csv-splitter.git
 cd csv-splitter
+
+atau
+
+download file csv-splitter.py, pastikan semua library sudah terinstal dilaptop, lalu double klik , program akan berjalan di global evn, jika pakai visual code atau py charm pastikan juga semua lib sudah terinstal, lalu run
